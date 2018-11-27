@@ -1,6 +1,11 @@
 # twitter-reply-ranking
 
-Fetch Tweet data from a cohort of screen names to rank based on number of replies
+Fetch Tweet data from a cohort of screen names to rank based on number of replies. This is the code I used for publishing rankings of Massachusetts mayors, state representatives, state senators, statewide offices, and congressional delgation on [abbett.org](http://abbett.org)
+
+* [Twitter Rankings: Massachusetts State Representatives](http://abbett.org/2018/11/twitter-rankings-massachusetts-state-representatives/index.html)
+* [Twitter Rankings: Massachusetts State Senators](http://abbett.org/2018/11/twitter-rankings-massachusetts-state-senators/index.html)
+* [Twitter Rankings: Massachusetts Mayors](http://abbett.org/2018/11/twitter-rankings-massachusetts-mayors/index.html)
+* [Twitter Rankings: Massachusetts Statewide & Congressional](http://abbett.org/2018/11/twitter-rankings-massachusetts-statewide-congress/index.html)
 
 ## Set up
 
