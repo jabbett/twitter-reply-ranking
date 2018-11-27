@@ -1,0 +1,1602 @@
+[
+  {
+    "district_formal": "1st Barnstable",
+    "district_county": "Barnstable",
+    "district_number": 1,
+    "first": "Timothy",
+    "last": "Whelan",
+    "party": "r",
+    "first_term": 2014,
+    "screen_name": "TRWhelan"
+  },
+  {
+    "district_formal": "2nd Barnstable",
+    "district_county": "Barnstable",
+    "district_number": 2,
+    "first": "William",
+    "last": "Crocker",
+    "party": "r",
+    "first_term": 2016,
+    "screen_name": "WillCrockerJr"
+  },
+  {
+    "district_formal": "3rd Barnstable",
+    "district_county": "Barnstable",
+    "district_number": 3,
+    "first": "David",
+    "last": "Vieira",
+    "party": "r",
+    "first_term": 2010,
+    "screen_name": null
+  },
+  {
+    "district_formal": "4th Barnstable",
+    "district_county": "Barnstable",
+    "district_number": 4,
+    "first": "Sarah",
+    "last": "Peake",
+    "party": "d",
+    "first_term": 2006,
+    "screen_name": "skpeake"
+  },
+  {
+    "district_formal": "5th Barnstable",
+    "district_county": "Barnstable",
+    "district_number": 5,
+    "first": "Randy",
+    "last": "Hunt",
+    "party": "r",
+    "first_term": 2010,
+    "screen_name": "RandyHuntCPA"
+  },
+  {
+    "district_formal": "Barnstable, Dukes and Nantucket",
+    "district_county": "Barnstable, Dukes and Nantucket",
+    "district_number": null,
+    "first": "Dylan",
+    "last": "Fernandes",
+    "party": "d",
+    "first_term": 2016,
+    "screen_name": "RepDylan"
+  },
+  {
+    "district_formal": "1st Berkshire",
+    "district_county": "Berkshire",
+    "district_number": 1,
+    "first": "John",
+    "last": "Barrett",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": null
+  },
+  {
+    "district_formal": "2nd Berkshire",
+    "district_county": "Berkshire",
+    "district_number": 2,
+    "first": "Paul",
+    "last": "Mark",
+    "party": "d",
+    "first_term": 2010,
+    "screen_name": "reppaulmark"
+  },
+  {
+    "district_formal": "3rd Berkshire",
+    "district_county": "Berkshire",
+    "district_number": 3,
+    "first": "Tricia",
+    "last": "Farley-Bouvier",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "reptricia"
+  },
+  {
+    "district_formal": "4th Berkshire",
+    "district_county": "Berkshire",
+    "district_number": 4,
+    "first": "Smitty",
+    "last": "Pignatelli",
+    "party": "d",
+    "first_term": 2002,
+    "screen_name": "repsmitty"
+  },
+  {
+    "district_formal": "1st Bristol",
+    "district_county": "Bristol",
+    "district_number": 1,
+    "first": "F. Jay",
+    "last": "Barrows",
+    "party": "r",
+    "first_term": 2006,
+    "screen_name": "jay_barrows"
+  },
+  {
+    "district_formal": "2nd Bristol",
+    "district_county": "Bristol",
+    "district_number": 2,
+    "first": "James",
+    "last": "Hawkins",
+    "party": "d",
+    "first_term": 2018,
+    "screen_name": "JimHawkins4Rep"
+  },
+  {
+    "district_formal": "3rd Bristol",
+    "district_county": "Bristol",
+    "district_number": 3,
+    "first": "Shaunna",
+    "last": "O'Connell",
+    "party": "r",
+    "first_term": 2010,
+    "screen_name": "ShaunnaOconnell"
+  },
+  {
+    "district_formal": "4th Bristol",
+    "district_county": "Bristol",
+    "district_number": 4,
+    "first": "Steven",
+    "last": "Howitt",
+    "party": "r",
+    "first_term": 2010,
+    "screen_name": "HowittStateRep"
+  },
+  {
+    "district_formal": "5th Bristol",
+    "district_county": "Bristol",
+    "district_number": 5,
+    "first": "Patricia",
+    "last": "Haddad",
+    "party": "d",
+    "first_term": 2000,
+    "screen_name": "rephaddad"
+  },
+  {
+    "district_formal": "6th Bristol",
+    "district_county": "Bristol",
+    "district_number": 6,
+    "first": "Carole",
+    "last": "Fiola",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "CaroleFiola"
+  },
+  {
+    "district_formal": "7th Bristol",
+    "district_county": "Bristol",
+    "district_number": 7,
+    "first": "Alan",
+    "last": "Silvia",
+    "party": "d",
+    "first_term": 2008,
+    "screen_name": "RepAlanSilvia"
+  },
+  {
+    "district_formal": "8th Bristol",
+    "district_county": "Bristol",
+    "district_number": 8,
+    "first": "Paul",
+    "last": "Schmid",
+    "party": "d",
+    "first_term": 2010,
+    "screen_name": "RepPaulSchmid"
+  },
+  {
+    "district_formal": "9th Bristol",
+    "district_county": "Bristol",
+    "district_number": 9,
+    "first": "Christopher",
+    "last": "Markey",
+    "party": "d",
+    "first_term": 2010,
+    "screen_name": "ChrisMarkeyRep"
+  },
+  {
+    "district_formal": "10th Bristol",
+    "district_county": "Bristol",
+    "district_number": 10,
+    "first": "William",
+    "last": "Straus",
+    "party": "d",
+    "first_term": 1992,
+    "screen_name": null
+  },
+  {
+    "district_formal": "11th Bristol",
+    "district_county": "Bristol",
+    "district_number": 11,
+    "first": "Christopher",
+    "last": "Hendricks",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": null
+  },
+  {
+    "district_formal": "12th Bristol",
+    "district_county": "Bristol",
+    "district_number": 12,
+    "first": "Norman",
+    "last": "Orrall",
+    "party": "r",
+    "first_term": 2019,
+    "screen_name": null
+  },
+  {
+    "district_formal": "13th Bristol",
+    "district_county": "Bristol",
+    "district_number": 13,
+    "first": "Antonio",
+    "last": "Cabral",
+    "party": "d",
+    "first_term": 1990,
+    "screen_name": "RepTonyCabral"
+  },
+  {
+    "district_formal": "14th Bristol",
+    "district_county": "Bristol",
+    "district_number": 14,
+    "first": "Elizabeth",
+    "last": "Poirier",
+    "party": "r",
+    "first_term": 1999,
+    "screen_name": "BettyPoirierMA"
+  },
+  {
+    "district_formal": "1st Essex",
+    "district_county": "Essex",
+    "district_number": 1,
+    "first": "James",
+    "last": "Kelcourse",
+    "party": "r",
+    "first_term": 2015,
+    "screen_name": "jameskelcourse"
+  },
+  {
+    "district_formal": "2nd Essex",
+    "district_county": "Essex",
+    "district_number": 2,
+    "first": "Leonard",
+    "last": "Mirra",
+    "party": "r",
+    "first_term": 2013,
+    "screen_name": "LennyMirra"
+  },
+  {
+    "district_formal": "3rd Essex",
+    "district_county": "Essex",
+    "district_number": 3,
+    "first": "Andres",
+    "last": "Vargas",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": "RepAndyVargas"
+  },
+  {
+    "district_formal": "4th Essex",
+    "district_county": "Essex",
+    "district_number": 4,
+    "first": "Bradford",
+    "last": "Hill",
+    "party": "r",
+    "first_term": 1999,
+    "screen_name": "repbradhill"
+  },
+  {
+    "district_formal": "5th Essex",
+    "district_county": "Essex",
+    "district_number": 5,
+    "first": "Ann-Margaret",
+    "last": "Ferrante",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "Rep_AMF"
+  },
+  {
+    "district_formal": "6th Essex",
+    "district_county": "Essex",
+    "district_number": 6,
+    "first": "Jerald",
+    "last": "Parisella",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "JerryParisella"
+  },
+  {
+    "district_formal": "7th Essex",
+    "district_county": "Essex",
+    "district_number": 7,
+    "first": "Paul",
+    "last": "Tucker",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "PaulTuckerSalem"
+  },
+  {
+    "district_formal": "8th Essex",
+    "district_county": "Essex",
+    "district_number": 8,
+    "first": "Lori",
+    "last": "Ehrlich",
+    "party": "d",
+    "first_term": 2007,
+    "screen_name": "loriehrlich"
+  },
+  {
+    "district_formal": "9th Essex",
+    "district_county": "Essex",
+    "district_number": 9,
+    "first": "Donald",
+    "last": "Wong",
+    "party": "r",
+    "first_term": 2011,
+    "screen_name": "RepDonaldWong"
+  },
+  {
+    "district_formal": "10th Essex",
+    "district_county": "Essex",
+    "district_number": 10,
+    "first": "Daniel",
+    "last": "Cahill",
+    "party": "d",
+    "first_term": 2016,
+    "screen_name": "RepDanCahill"
+  },
+  {
+    "district_formal": "11th Essex",
+    "district_county": "Essex",
+    "district_number": 11,
+    "first": "Peter",
+    "last": "Capano",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": null
+  },
+  {
+    "district_formal": "12th Essex",
+    "district_county": "Essex",
+    "district_number": 12,
+    "first": "Thomas",
+    "last": "Walsh",
+    "party": "d",
+    "first_term": 2016,
+    "screen_name": "WalshForPeabody"
+  },
+  {
+    "district_formal": "13th Essex",
+    "district_county": "Essex",
+    "district_number": 13,
+    "first": "Theodore",
+    "last": "Speliotis",
+    "party": "d",
+    "first_term": 1997,
+    "screen_name": null
+  },
+  {
+    "district_formal": "14th Essex",
+    "district_county": "Essex",
+    "district_number": 14,
+    "first": "Christina",
+    "last": "Minicucci",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": null
+  },
+  {
+    "district_formal": "15th Essex",
+    "district_county": "Essex",
+    "district_number": 15,
+    "first": "Linda",
+    "last": "Campbell",
+    "party": "d",
+    "first_term": 2007,
+    "screen_name": "rep_campbell"
+  },
+  {
+    "district_formal": "16th Essex",
+    "district_county": "Essex",
+    "district_number": 16,
+    "first": "Marcos",
+    "last": "Devers",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "MarcosDevers"
+  },
+  {
+    "district_formal": "17th Essex",
+    "district_county": "Essex",
+    "district_number": 17,
+    "first": "Frank",
+    "last": "Moran",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "RepMoran"
+  },
+  {
+    "district_formal": "18th Essex",
+    "district_county": "Essex",
+    "district_number": 18,
+    "first": "Tram",
+    "last": "Nguyen",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "TeamTram"
+  },
+  {
+    "district_formal": "1st Franklin",
+    "district_county": "Franklin",
+    "district_number": 1,
+    "first": "Natalie",
+    "last": "Blais",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "BlaisForMA"
+  },
+  {
+    "district_formal": "2nd Franklin",
+    "district_county": "Franklin",
+    "district_number": 2,
+    "first": "Susannah",
+    "last": "Whipps",
+    "party": "u",
+    "first_term": 2015,
+    "screen_name": "repwhipps"
+  },
+  {
+    "district_formal": "1st Hampden",
+    "district_county": "Hampden",
+    "district_number": 1,
+    "first": "Todd",
+    "last": "Smola",
+    "party": "r",
+    "first_term": 2004,
+    "screen_name": null
+  },
+  {
+    "district_formal": "2nd Hampden",
+    "district_county": "Hampden",
+    "district_number": 2,
+    "first": "Brian",
+    "last": "Ashe",
+    "party": "d",
+    "first_term": 2008,
+    "screen_name": "repashe"
+  },
+  {
+    "district_formal": "3rd Hampden",
+    "district_county": "Hampden",
+    "district_number": 3,
+    "first": "Nicholas",
+    "last": "Boldyga",
+    "party": "Repub",
+    "first_term": 2011,
+    "screen_name": "RepNickBoldyga"
+  },
+  {
+    "district_formal": "4th Hampden",
+    "district_county": "Hampden",
+    "district_number": 4,
+    "first": "John",
+    "last": "Velis",
+    "party": "d",
+    "first_term": 2014,
+    "screen_name": "repjohnvelis"
+  },
+  {
+    "district_formal": "5th Hampden",
+    "district_county": "Hampden",
+    "district_number": 5,
+    "first": "Aaron",
+    "last": "Vega",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "AaronMVega"
+  },
+  {
+    "district_formal": "6th Hampden",
+    "district_county": "Hampden",
+    "district_number": 6,
+    "first": "Michael",
+    "last": "Finn",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "michaeljfinn"
+  },
+  {
+    "district_formal": "7th Hampden",
+    "district_county": "Hampden",
+    "district_number": 7,
+    "first": "Thomas",
+    "last": "Petrolati",
+    "party": "d",
+    "first_term": 1986,
+    "screen_name": null
+  },
+  {
+    "district_formal": "8th Hampden",
+    "district_county": "Hampden",
+    "district_number": 8,
+    "first": "Joseph",
+    "last": "Wagner",
+    "party": "d",
+    "first_term": 1990,
+    "screen_name": "repwagner"
+  },
+  {
+    "district_formal": "9th Hampden",
+    "district_county": "Hampden",
+    "district_number": 9,
+    "first": "José",
+    "last": "Tosado",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "JoseTosado4Rep"
+  },
+  {
+    "district_formal": "10th Hampden",
+    "district_county": "Hampden",
+    "district_number": 10,
+    "first": "Carlos",
+    "last": "González",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "Vote4gonzalez"
+  },
+  {
+    "district_formal": "11th Hampden",
+    "district_county": "Hampden",
+    "district_number": 11,
+    "first": "Bud",
+    "last": "Williams",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": "BudLWilliams"
+  },
+  {
+    "district_formal": "12th Hampden",
+    "district_county": "Hampden",
+    "district_number": 12,
+    "first": "Angelo",
+    "last": "Puppolo",
+    "party": "d",
+    "first_term": 2006,
+    "screen_name": "apuppolo"
+  },
+  {
+    "district_formal": "1st Hampshire",
+    "district_county": "Hampshire",
+    "district_number": 1,
+    "first": "Lindsay",
+    "last": "Sabadosa",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "SabadosaMA"
+  },
+  {
+    "district_formal": "2nd Hampshire",
+    "district_county": "Hampshire",
+    "district_number": 2,
+    "first": "Daniel",
+    "last": "Carey",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": null
+  },
+  {
+    "district_formal": "3rd Hampshire",
+    "district_county": "Hampshire",
+    "district_number": 3,
+    "first": "Mindy",
+    "last": "Domb",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "MindyForMA"
+  },
+  {
+    "district_formal": "1st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 1,
+    "first": "Sheila",
+    "last": "Harrington",
+    "party": "r",
+    "first_term": 2011,
+    "screen_name": "RepHarrington"
+  },
+  {
+    "district_formal": "2nd Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 2,
+    "first": "James",
+    "last": "Arciero",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "jimarciero"
+  },
+  {
+    "district_formal": "3rd Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 3,
+    "first": "Kate",
+    "last": "Hogan",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "repkatehogan"
+  },
+  {
+    "district_formal": "4th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 4,
+    "first": "Danielle",
+    "last": "Gregoire",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "DWGregoire"
+  },
+  {
+    "district_formal": "5th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 5,
+    "first": "David",
+    "last": "Linsky",
+    "party": "d",
+    "first_term": 1999,
+    "screen_name": "RepDavidLinsky"
+  },
+  {
+    "district_formal": "6th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 6,
+    "first": "Maria",
+    "last": "Robinson",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": [ "mduaime", "mariarobinsonMA" ]
+  },
+  {
+    "district_formal": "7th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 7,
+    "first": "Jack",
+    "last": "Lewis",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": "RepJackLewis"
+  },
+  {
+    "district_formal": "8th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 8,
+    "first": "Carolyn",
+    "last": "Dykema",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "carolyndykema"
+  },
+  {
+    "district_formal": "9th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 9,
+    "first": "Thomas",
+    "last": "Stanley",
+    "party": "d",
+    "first_term": 2001,
+    "screen_name": "repstanley"
+  },
+  {
+    "district_formal": "10th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 10,
+    "first": "John",
+    "last": "Lawn",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "repjohnlawn"
+  },
+  {
+    "district_formal": "11th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 11,
+    "first": "Kay",
+    "last": "Khan",
+    "party": "d",
+    "first_term": 1995,
+    "screen_name": "repkaykhan"
+  },
+  {
+    "district_formal": "12th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 12,
+    "first": "Ruth",
+    "last": "Balser",
+    "party": "d",
+    "first_term": 1999,
+    "screen_name": "RepRuthBalser"
+  },
+  {
+    "district_formal": "13th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 13,
+    "first": "Carmine",
+    "last": "Gentile",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "CarmineLGentile"
+  },
+  {
+    "district_formal": "14th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 14,
+    "first": "Tami",
+    "last": "Gouveia",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "TamiGouveiaMA"
+  },
+  {
+    "district_formal": "15th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 15,
+    "first": "Michelle",
+    "last": "Ciccolo",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "mciccolo"
+  },
+  {
+    "district_formal": "16th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 16,
+    "first": "Thomas",
+    "last": "Golden",
+    "party": "d",
+    "first_term": 2003,
+    "screen_name": null
+  },
+  {
+    "district_formal": "17th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 17,
+    "first": "David",
+    "last": "Nangle",
+    "party": "d",
+    "first_term": 1999,
+    "screen_name": null
+  },
+  {
+    "district_formal": "18th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 18,
+    "first": "Rady",
+    "last": "Mom",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "repradymom"
+  },
+  {
+    "district_formal": "19th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 19,
+    "first": "David Allen",
+    "last": "Robertson",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "RobertsonForRep"
+  },
+  {
+    "district_formal": "20th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 20,
+    "first": "Bradley",
+    "last": "Jones",
+    "party": "r",
+    "first_term": 2003,
+    "screen_name": "RepBradJones"
+  },
+  {
+    "district_formal": "21st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 21,
+    "first": "Kenneth",
+    "last": "Gordon",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "RepKenGordon"
+  },
+  {
+    "district_formal": "22nd Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 22,
+    "first": "Marc",
+    "last": "Lombardo",
+    "party": "r",
+    "first_term": 2011,
+    "screen_name": "MarcTLombardo"
+  },
+  {
+    "district_formal": "23rd Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 23,
+    "first": "Sean",
+    "last": "Garballey",
+    "party": "d",
+    "first_term": 2008,
+    "screen_name": "seangarballeyma"
+  },
+  {
+    "district_formal": "24th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 24,
+    "first": "David",
+    "last": "Rogers",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "RepDaveRogers"
+  },
+  {
+    "district_formal": "25th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 25,
+    "first": "Marjorie",
+    "last": "Decker",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "MarjorieDecker"
+  },
+  {
+    "district_formal": "26th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 26,
+    "first": "Mike",
+    "last": "Connolly",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": "MikeConnollyMA"
+  },
+  {
+    "district_formal": "27th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 27,
+    "first": "Denise",
+    "last": "Provost",
+    "party": "d",
+    "first_term": 2006,
+    "screen_name": "DeniseProvost1"
+  },
+  {
+    "district_formal": "28th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 28,
+    "first": "Joseph",
+    "last": "McGonagle",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "McGonagle4Rep"
+  },
+  {
+    "district_formal": "29th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 29,
+    "first": "Jonathan",
+    "last": "Hecht",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "RepJonHecht"
+  },
+  {
+    "district_formal": "30th Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 30,
+    "first": "Richard",
+    "last": "Haggerty",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "richhaggerty"
+  },
+  {
+    "district_formal": "31st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 31,
+    "first": "Michael",
+    "last": "Day",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "mikeday4rep"
+  },
+  {
+    "district_formal": "32st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 32,
+    "first": "Paul",
+    "last": "Brodeur",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "RepBrodeur"
+  },
+  {
+    "district_formal": "33st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 33,
+    "first": "Steven",
+    "last": "Ultrino",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "RepUltrino"
+  },
+  {
+    "district_formal": "34st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 34,
+    "first": "Christine",
+    "last": "Barber",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "Barber4StateRep"
+  },
+  {
+    "district_formal": "35st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 35,
+    "first": "Paul",
+    "last": "Donato",
+    "party": "d",
+    "first_term": 2001,
+    "screen_name": "repdonato"
+  },
+  {
+    "district_formal": "36st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 36,
+    "first": "Colleen",
+    "last": "Garry",
+    "party": "d",
+    "first_term": 2003,
+    "screen_name": "RepColleenGarry"
+  },
+  {
+    "district_formal": "37st Middlesex",
+    "district_county": "Middlesex",
+    "district_number": 37,
+    "first": "Jennifer",
+    "last": "Benson",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "RepJenBenson"
+  },
+  {
+    "district_formal": "1st Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 1,
+    "first": "Bruce",
+    "last": "Ayers",
+    "party": "d",
+    "first_term": 1999,
+    "screen_name": "BruceJAyers"
+  },
+  {
+    "district_formal": "2nd Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 2,
+    "first": "Tackey",
+    "last": "Chan",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "tackeychan"
+  },
+  {
+    "district_formal": "3rd Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 3,
+    "first": "Ronald",
+    "last": "Mariano",
+    "party": "d",
+    "first_term": 1991,
+    "screen_name": "RonMariano"
+  },
+  {
+    "district_formal": "4th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 4,
+    "first": "James",
+    "last": "Murphy",
+    "party": "d",
+    "first_term": 2001,
+    "screen_name": "MurphyRep"
+  },
+  {
+    "district_formal": "5th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 5,
+    "first": "Mark",
+    "last": "Cusack",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "repmarkcusack"
+  },
+  {
+    "district_formal": "6th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 6,
+    "first": "William",
+    "last": "Galvin",
+    "party": "d",
+    "first_term": 1991,
+    "screen_name": null
+  },
+  {
+    "district_formal": "7th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 7,
+    "first": "William",
+    "last": "Driscoll",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": "BillDriscollJr"
+  },
+  {
+    "district_formal": "8th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 8,
+    "first": "Louis",
+    "last": "Kafka",
+    "party": "d",
+    "first_term": 1991,
+    "screen_name": null
+  },
+  {
+    "district_formal": "9th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 9,
+    "first": "Shawn",
+    "last": "Dooley",
+    "party": "r",
+    "first_term": 2014,
+    "screen_name": null
+  },
+  {
+    "district_formal": "10th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 10,
+    "first": "Jeffrey",
+    "last": "Roy",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "jeffroy"
+  },
+  {
+    "district_formal": "11th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 11,
+    "first": "Paul",
+    "last": "McMurtry",
+    "party": "d",
+    "first_term": 2007,
+    "screen_name": "RepPaulMcMurtry"
+  },
+  {
+    "district_formal": "12th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 12,
+    "first": "John",
+    "last": "Rogers",
+    "party": "d",
+    "first_term": 1992,
+    "screen_name": "reprogers"
+  },
+  {
+    "district_formal": "13th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 13,
+    "first": "Denise",
+    "last": "Garlick",
+    "party": "d",
+    "first_term": 2012,
+    "screen_name": "DeniseGarlick"
+  },
+  {
+    "district_formal": "14th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 14,
+    "first": "Alice",
+    "last": "Peisch",
+    "party": "d",
+    "first_term": 2003,
+    "screen_name": "RepAlicePeisch"
+  },
+  {
+    "district_formal": "15th Norfolk",
+    "district_county": "Norfolk",
+    "district_number": 15,
+    "first": "Tommy",
+    "last": "Vitolo",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "TommyVitolo"
+  },
+  {
+    "district_formal": "1st Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 1,
+    "first": "Mathew",
+    "last": "Muratore",
+    "party": "r",
+    "first_term": 2015,
+    "screen_name": "MatMuratore"
+  },
+  {
+    "district_formal": "2nd Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 2,
+    "first": "Susan",
+    "last": "Gifford",
+    "party": "r",
+    "first_term": 2003,
+    "screen_name": null
+  },
+  {
+    "district_formal": "3rd Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 3,
+    "first": "Joan",
+    "last": "Meschino",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "joanmeschino"
+  },
+  {
+    "district_formal": "4th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 4,
+    "first": "Patrick Joseph",
+    "last": "Kearney",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "Kearney4Rep"
+  },
+  {
+    "district_formal": "5th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 5,
+    "first": "David",
+    "last": "DeCoste",
+    "party": "r",
+    "first_term": 2014,
+    "screen_name": "VoteDeCoste"
+  },
+  {
+    "district_formal": "6th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 6,
+    "first": "Josh",
+    "last": "Cutler",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "joshcutler"
+  },
+  {
+    "district_formal": "7th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 7,
+    "first": "Alyson",
+    "last": "Sullivan",
+    "party": "r",
+    "first_term": 2019,
+    "screen_name": "ASforStateRep"
+  },
+  {
+    "district_formal": "8th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 8,
+    "first": "Angelo",
+    "last": "D'Emilia",
+    "party": "r",
+    "first_term": 2011,
+    "screen_name": "voteangelo"
+  },
+  {
+    "district_formal": "9th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 9,
+    "first": "Gerard",
+    "last": "Cassidy",
+    "party": "d",
+    "first_term": null,
+    "screen_name": null
+  },
+  {
+    "district_formal": "10th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 10,
+    "first": "Michelle",
+    "last": "DuBois",
+    "party": "d",
+    "first_term": 2015,
+    "screen_name": "RepDuBois"
+  },
+  {
+    "district_formal": "11th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 11,
+    "first": "Claire",
+    "last": "Cronin",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": null
+  },
+  {
+    "district_formal": "12th Plymouth",
+    "district_county": "Plymouth",
+    "district_number": 12,
+    "first": "Kathleen",
+    "last": "LaNatra",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "kathylanatra"
+  },
+  {
+    "district_formal": "1st Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 1,
+    "first": "Adrian",
+    "last": "Madaro",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "adrianmadaro"
+  },
+  {
+    "district_formal": "2nd Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 2,
+    "first": "Daniel",
+    "last": "Ryan",
+    "party": "d",
+    "first_term": 2014,
+    "screen_name": "RepDanRyan"
+  },
+  {
+    "district_formal": "3rd Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 3,
+    "first": "Aaron",
+    "last": "Michlewitz",
+    "party": "d",
+    "first_term": 2009,
+    "screen_name": "RepMichlewitz"
+  },
+  {
+    "district_formal": "4th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 4,
+    "first": "David",
+    "last": "Biele",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "votedavidbiele"
+  },
+  {
+    "district_formal": "5th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 5,
+    "first": "Liz",
+    "last": "Miranda",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": [ "votelizmiranda", "liz4staterep" ]
+  },
+  {
+    "district_formal": "6th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 6,
+    "first": "Russell",
+    "last": "Holmes",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "VoteRussell"
+  },
+  {
+    "district_formal": "7th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 7,
+    "first": "Chynah",
+    "last": "Tyler",
+    "party": "d",
+    "first_term": 2017,
+    "screen_name": "RepChynahTyler"
+  },
+  {
+    "district_formal": "8th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 8,
+    "first": "Jay",
+    "last": "Livingstone",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "jaylivingstone"
+  },
+  {
+    "district_formal": "9th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 9,
+    "first": "Jon",
+    "last": "Santiago",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "IamJonSantiago"
+  },
+  {
+    "district_formal": "10th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 10,
+    "first": "Edward",
+    "last": "Coppinger",
+    "party": "d",
+    "first_term": 2011,
+    "screen_name": "edcoppinger"
+  },
+  {
+    "district_formal": "11th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 11,
+    "first": "Elizabeth",
+    "last": "Malia",
+    "party": "d",
+    "first_term": 1998,
+    "screen_name": "replizmalia"
+  },
+  {
+    "district_formal": "12th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 12,
+    "first": "Daniel",
+    "last": "Cullinane",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "RepDanCullinane"
+  },
+  {
+    "district_formal": "13th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 13,
+    "first": "Daniel",
+    "last": "Hunt",
+    "party": "d",
+    "first_term": 2014,
+    "screen_name": "RepDanHunt"
+  },
+  {
+    "district_formal": "14th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 14,
+    "first": "Angelo",
+    "last": "Scaccia",
+    "party": "d",
+    "first_term": 1981,
+    "screen_name": null
+  },
+  {
+    "district_formal": "15th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 15,
+    "first": "Nika",
+    "last": "Elugardo",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "NikaElugardo"
+  },
+  {
+    "district_formal": "16th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 16,
+    "first": "RoseLee",
+    "last": "Vincent",
+    "party": "d",
+    "first_term": 2014,
+    "screen_name": "RoseLee_Vincent"
+  },
+  {
+    "district_formal": "17th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 17,
+    "first": "Kevin",
+    "last": "Honan",
+    "party": "d",
+    "first_term": 1987,
+    "screen_name": "RepKevinHonan"
+  },
+  {
+    "district_formal": "18th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 18,
+    "first": "Michael",
+    "last": "Moran",
+    "party": "d",
+    "first_term": 2005,
+    "screen_name": null
+  },
+  {
+    "district_formal": "19th Suffolk",
+    "district_county": "Suffolk",
+    "district_number": 19,
+    "first": "Robert",
+    "last": "DeLeo",
+    "party": "d",
+    "first_term": 1995,
+    "screen_name": "SpeakerDeLeo"
+  },
+  {
+    "district_formal": "1st Worcester",
+    "district_county": "Worcester",
+    "district_number": 1,
+    "first": "Kimberly",
+    "last": "Ferguson",
+    "party": "r",
+    "first_term": 2010,
+    "screen_name": "KimFergusonMA"
+  },
+  {
+    "district_formal": "2nd Worcester",
+    "district_county": "Worcester",
+    "district_number": 2,
+    "first": "Jonathan",
+    "last": "Zlotnik",
+    "party": "d",
+    "first_term": 2012,
+    "screen_name": null
+  },
+  {
+    "district_formal": "3rd Worcester",
+    "district_county": "Worcester",
+    "district_number": 3,
+    "first": "Stephan",
+    "last": "Hay",
+    "party": "d",
+    "first_term": 2016,
+    "screen_name": null
+  },
+  {
+    "district_formal": "4th Worcester",
+    "district_county": "Worcester",
+    "district_number": 4,
+    "first": "Natalie",
+    "last": "Higgins",
+    "party": "d",
+    "first_term": 2016,
+    "screen_name": "Rep_Higgins"
+  },
+  {
+    "district_formal": "5th Worcester",
+    "district_county": "Worcester",
+    "district_number": 5,
+    "first": "Donald",
+    "last": "Berthiaume",
+    "party": "r",
+    "first_term": 2014,
+    "screen_name": null
+  },
+  {
+    "district_formal": "6th Worcester",
+    "district_county": "Worcester",
+    "district_number": 6,
+    "first": "Peter",
+    "last": "Durant",
+    "party": "r",
+    "first_term": 2011,
+    "screen_name": "repdurant"
+  },
+  {
+    "district_formal": "7th Worcester",
+    "district_county": "Worcester",
+    "district_number": 7,
+    "first": "Paul",
+    "last": "Frost",
+    "party": "r",
+    "first_term": 1996,
+    "screen_name": "reppaulfrost"
+  },
+  {
+    "district_formal": "8th Worcester",
+    "district_county": "Worcester",
+    "district_number": 8,
+    "first": "Michael",
+    "last": "Soter",
+    "party": "r",
+    "first_term": 2019,
+    "screen_name": "Soter2018"
+  },
+  {
+    "district_formal": "9th Worcester",
+    "district_county": "Worcester",
+    "district_number": 9,
+    "first": "David",
+    "last": "Muradian",
+    "party": "r",
+    "first_term": 2014,
+    "screen_name": "Muradian4Rep"
+  },
+  {
+    "district_formal": "10th Worcester",
+    "district_county": "Worcester",
+    "district_number": 10,
+    "first": "Brian",
+    "last": "Murray",
+    "party": "d",
+    "first_term": 2016,
+    "screen_name": null
+  },
+  {
+    "district_formal": "11th Worcester",
+    "district_county": "Worcester",
+    "district_number": 11,
+    "first": "Hannah",
+    "last": "Kane",
+    "party": "r",
+    "first_term": 2015,
+    "screen_name": "HannahEKaneMA"
+  },
+  {
+    "district_formal": "12th Worcester",
+    "district_county": "Worcester",
+    "district_number": 12,
+    "first": "Harold",
+    "last": "Naughton",
+    "party": "d",
+    "first_term": 1994,
+    "screen_name": "HaroldNaughton"
+  },
+  {
+    "district_formal": "13th Worcester",
+    "district_county": "Worcester",
+    "district_number": 13,
+    "first": "John",
+    "last": "Mahoney",
+    "party": "d",
+    "first_term": 2010,
+    "screen_name": "RepJohnMahoney"
+  },
+  {
+    "district_formal": "14th Worcester",
+    "district_county": "Worcester",
+    "district_number": 14,
+    "first": "James",
+    "last": "O'Day",
+    "party": "d",
+    "first_term": 2007,
+    "screen_name": "RepJimODay"
+  },
+  {
+    "district_formal": "15th Worcester",
+    "district_county": "Worcester",
+    "district_number": 15,
+    "first": "Mary",
+    "last": "Keefe",
+    "party": "d",
+    "first_term": 2012,
+    "screen_name": "MaryKeefeMA"
+  },
+  {
+    "district_formal": "16th Worcester",
+    "district_county": "Worcester",
+    "district_number": 16,
+    "first": "Daniel",
+    "last": "Donahue",
+    "party": "d",
+    "first_term": 2013,
+    "screen_name": "RepDanDonahue"
+  },
+  {
+    "district_formal": "17th Worcester",
+    "district_county": "Worcester",
+    "district_number": 17,
+    "first": "David",
+    "last": "LeBoeuf",
+    "party": "d",
+    "first_term": 2019,
+    "screen_name": "DavidLeBoeuf"
+  },
+  {
+    "district_formal": "18th Worcester",
+    "district_county": "Worcester",
+    "district_number": 18,
+    "first": "Joseph",
+    "last": "McKenna",
+    "party": "r",
+    "first_term": 2014,
+    "screen_name": "JosephDMcKenna"
+  }
+]

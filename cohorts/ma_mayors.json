@@ -1,0 +1,425 @@
+[
+  {
+      "city": "Agawam",
+      "population": 28438,
+      "first": "William",
+      "last": "Sapelli",
+      "party": null,
+      "first_term": null,
+      "screen_name": "sapelli4mayor"
+  },
+  {
+      "city": "Amesbury",
+      "population": 16283,
+      "first": "Ken",
+      "last": "Gray",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorKenGray"
+  },
+  {
+      "city": "Attleboro",
+      "population": 43593,
+      "first": "Paul",
+      "last": "Heroux",
+      "party": null,
+      "first_term": null,
+      "screen_name": "PaulHeroux"
+  },
+  {
+      "city": "Beverly",
+      "population": 39502,
+      "first": "Michael",
+      "last": "Cahill",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorMikeCahill"
+  },
+  {
+      "city": "Boston",
+      "population": 617660,
+      "first": "Martin",
+      "last": "Walsh",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "marty_walsh", "MartyForBoston" ]
+  },
+  {
+      "city": "Braintree",
+      "population": 35744,
+      "first": "Joseph",
+      "last": "Sullivan",
+      "party": null,
+      "first_term": null,
+      "screen_name": "braintreemayor"
+  },
+  {
+      "city": "Brockton",
+      "population": 93810,
+      "first": "Bill",
+      "last": "Carpenter",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorBillCarp"
+  },
+  {
+      "city": "Cambridge",
+      "population": 105162,
+      "first": "Marc",
+      "last": "McGovern",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "Cambridge_Mayor", "MarcGov" ]
+  },
+  {
+      "city": "Chicopee",
+      "population": 55298,
+      "first": "Richard",
+      "last": "Kos",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorKos413"
+  },
+  {
+      "city": "Easthampton",
+      "population": 16053,
+      "first": "Nicole",
+      "last": "LaChapelle",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorLachapelle"
+  },
+  {
+      "city": "Everett",
+      "population": 41667,
+      "first": "Carlo",
+      "last": "DeMaria Jr.",
+      "party": null,
+      "first_term": null,
+      "screen_name": "Mayor_DeMaria"
+  },
+  {
+      "city": "Fall River",
+      "population": 88857,
+      "first": "Jasiel",
+      "last": "Correia II",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "MayorJFC", "Jasiel_Correia" ]
+  },
+  {
+      "city": "Fitchburg",
+      "population": 40318,
+      "first": "Stephen",
+      "last": "DiNatale",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "Framingham",
+      "population": 68318,
+      "first": "Yvonne",
+      "last": "Spicer",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "Mayor_Spicer", "spicerformayor" ]
+  },
+  {
+      "city": "Gardner",
+      "population": 20228,
+      "first": "Mark",
+      "last": "Hawke",
+      "party": null,
+      "first_term": null,
+      "screen_name": "markhawke"
+  },
+  {
+      "city": "Gloucester",
+      "population": 28789,
+      "first": "Sefatia",
+      "last": "Romeo Theken",
+      "party": null,
+      "first_term": null,
+      "screen_name": "STheken"
+  },
+  {
+      "city": "Greenfield",
+      "population": 17456,
+      "first": "William",
+      "last": "Martin",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "Haverhill",
+      "population": 60879,
+      "first": "James",
+      "last": "Fiorentini",
+      "party": null,
+      "first_term": null,
+      "screen_name": "jimfiorentini"
+  },
+  {
+      "city": "Holyoke",
+      "population": 39880,
+      "first": "Alex",
+      "last": "Morse",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "AlexBMorse", "Morse4Mayor" ]
+  },
+  {
+      "city": "Lawrence",
+      "population": 76377,
+      "first": "Daniel",
+      "last": "Rivera",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "danrivera01843" ]
+  },
+  {
+      "city": "Leominster",
+      "population": 40759,
+      "first": "Dean",
+      "last": "Mazzarella",
+      "party": null,
+      "first_term": null,
+      "screen_name": "DeanJMazzarella"
+  },
+  {
+      "city": "Lowell",
+      "population": 106519,
+      "first": "William",
+      "last": "Samaras",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "Lynn",
+      "population": 90329,
+      "first": "Thomas",
+      "last": "McGee",
+      "party": null,
+      "first_term": null,
+      "screen_name": "TomMcGeeforLynn"
+  },
+  {
+      "city": "Malden",
+      "population": 59450,
+      "first": "Gary",
+      "last": "Christenson",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "TheCityofMalden", "MayorOfMalden" ]
+  },
+  {
+      "city": "Marlborough",
+      "population": 38499,
+      "first": "Arthur",
+      "last": "Vigeant",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorVigeant"
+  },
+  {
+      "city": "Medford",
+      "population": 56173,
+      "first": "Stephanie",
+      "last": "Burke",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "MayorofMedford", "StephanieMBurke" ]
+  },
+  {
+      "city": "Melrose",
+      "population": 26983,
+      "first": "Gail",
+      "last": "Infurna",
+      "party": null,
+      "first_term": null,
+      "screen_name": "ginfurna"
+  },
+  {
+      "city": "Methuen",
+      "population": 47255,
+      "first": "James",
+      "last": "Jajuga",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "New Bedford",
+      "population": 95072,
+      "first": "Jon",
+      "last": "Mitchell",
+      "party": null,
+      "first_term": null,
+      "screen_name": "JonMitchellNB"
+  },
+  {
+      "city": "Newburyport",
+      "population": 17416,
+      "first": "Donna",
+      "last": "Holaday",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "holadayNBPT2017", "newburyportgov" ]
+  },
+  {
+      "city": "Newton",
+      "population": 85146,
+      "first": "Ruthanne",
+      "last": "Fuller",
+      "party": null,
+      "first_term": null,
+      "screen_name": [ "RuthanneFuller", "NewtonMAMayor" ]
+  },
+  {
+      "city": "North Adams",
+      "population": 13708,
+      "first": "Thomas",
+      "last": "Bernard",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorBernardNA"
+  },
+  {
+      "city": "Northampton",
+      "population": 28549,
+      "first": "David",
+      "last": "Narkewicz",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorNarkewicz"
+  },
+  {
+      "city": "Peabody",
+      "population": 51251,
+      "first": "Edward",
+      "last": "Bettencourt",
+      "party": null,
+      "first_term": null,
+      "screen_name": "PeabodyMayor"
+  },
+  {
+      "city": "Pittsfield",
+      "population": 44737,
+      "first": "Linda",
+      "last": "Tyer",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "Quincy",
+      "population": 92271,
+      "first": "Thomas",
+      "last": "Koch",
+      "party": null,
+      "first_term": null,
+      "screen_name": "mayortomkoch"
+  },
+  {
+      "city": "Revere",
+      "population": 51755,
+      "first": "Brian",
+      "last": "Arrigo",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorArrigo"
+  },
+  {
+      "city": "Salem",
+      "population": 41340,
+      "first": "Kimberly",
+      "last": "Driscoll",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorDriscoll"
+  },
+  {
+      "city": "Somerville",
+      "population": 75754,
+      "first": "Joseph",
+      "last": "Curtatone",
+      "party": null,
+      "first_term": null,
+      "screen_name": "JoeCurtatone"
+  },
+  {
+      "city": "Springfield",
+      "population": 153060,
+      "first": "Domenic",
+      "last": "Sarno",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "Taunton",
+      "population": 55874,
+      "first": "Thomas",
+      "last": "Hoye Jr.",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorHoye"
+  },
+  {
+      "city": "Waltham",
+      "population": 60632,
+      "first": "Jeannette",
+      "last": "McCarthy",
+      "party": null,
+      "first_term": null,
+      "screen_name": "Mayor_McCarthy"
+  },
+  {
+      "city": "Westfield",
+      "population": 41094,
+      "first": "Brian",
+      "last": "Sullivan",
+      "party": null,
+      "first_term": null,
+      "screen_name": null
+  },
+  {
+      "city": "West Springfield",
+      "population": 28391,
+      "first": "William",
+      "last": "Reichelt",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorReichelt"
+  },
+  {
+      "city": "Weymouth",
+      "population": 53743,
+      "first": "Robert",
+      "last": "Hedlund",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorBobHedlund"
+  },
+  {
+      "city": "Woburn",
+      "population": 38120,
+      "first": "Scott",
+      "last": "Galvin",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorGalvin"
+  },
+  {
+      "city": "Worcester",
+      "population": 181045,
+      "first": "Joseph",
+      "last": "Petty",
+      "party": null,
+      "first_term": null,
+      "screen_name": "MayorPetty"
+  }
+]

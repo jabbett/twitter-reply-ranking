@@ -1,0 +1,402 @@
+[
+	{
+		"district_formal": "Berkshire, Hampshire, Franklin, and Hampden",
+		"district_county": "Berkshire, Hampshire, Franklin, and Hampden",
+		"district_number": null,
+		"first": "Adam",
+		"last": "Hinds",
+		"party": "d",
+		"first_term": 2017,
+		"screen_name": "adamghinds"
+	},
+	{
+		"district_formal": "Bristol and Norfolk",
+		"district_county": "Bristol and Norfolk",
+		"district_number": null,
+		"first": "Paul",
+		"last": "Feeney",
+		"party": "d",
+		"first_term": 2017,
+		"screen_name": "PaulFeeneyMA"
+	},
+	{
+		"district_formal": "1st Bristol and Plymouth",
+		"district_county": "Bristol and Plymouth",
+		"district_number": 1,
+		"first": "Michael",
+		"last": "Rodrigues",
+		"party": "d",
+		"first_term": 2011,
+		"screen_name": "SenRodrigues"
+	},
+	{
+		"district_formal": "2nd Bristol and Plymouth",
+		"district_county": "Bristol and Plymouth",
+		"district_number": 2,
+		"first": "Mark",
+		"last": "Montigny",
+		"party": "d",
+		"first_term": 1993,
+		"screen_name": null
+	},
+	{
+		"district_formal": "Cape and Islands",
+		"district_county": "Cape and Islands",
+		"district_number": null,
+		"first": "Julian",
+		"last": "Cyr",
+		"party": "d",
+		"first_term": 2017,
+		"screen_name": "JulianCyr"
+	},
+	{
+		"district_formal": "1st Essex",
+		"district_county": "Essex",
+		"district_number": 1,
+		"first": "Diana",
+		"last": "DiZoglio",
+		"party": "d",
+		"first_term": 2019,
+		"screen_name": "DianaDiZoglio"
+	},
+	{
+		"district_formal": "2nd Essex",
+		"district_county": "Essex",
+		"district_number": 2,
+		"first": "Joan",
+		"last": "Lovely",
+		"party": "d",
+		"first_term": 2013,
+		"screen_name": "SenJoanLovely"
+	},
+	{
+		"district_formal": "3rd Essex",
+		"district_county": "Essex",
+		"district_number": 3,
+		"first": "Brendan",
+		"last": "Crighton",
+		"party": "d",
+		"first_term": 2018,
+		"screen_name": "BrendanCrighton"
+	},
+	{
+		"district_formal": "1st Essex and Middlesex",
+		"district_county": "Essex and Middlesex",
+		"district_number": 1,
+		"first": "Bruce",
+		"last": "Tarr",
+		"party": "r",
+		"first_term": 1995,
+		"screen_name": "SenBruceTarr"
+	},
+	{
+		"district_formal": "2nd Essex and Middlesex",
+		"district_county": "Essex and Middlesex",
+		"district_number": 2,
+		"first": "Barry",
+		"last": "Finegold",
+		"party": "d",
+		"first_term": 2019,
+		"screen_name": "Barry_Finegold"
+	},
+	{
+		"district_formal": "Hampden",
+		"district_county": "Hampden",
+		"district_number": null,
+		"first": "James",
+		"last": "Welch",
+		"party": "d",
+		"first_term": 2011,
+		"screen_name": "Sen_Jim_Welch"
+	},
+	{
+		"district_formal": "1st Hampden and Hampshire",
+		"district_county": "Hampden and Hampshire",
+		"district_number": 1,
+		"first": "Eric",
+		"last": "Lesser",
+		"party": "d",
+		"first_term": 2015,
+		"screen_name": "EricLesser"
+	},
+	{
+		"district_formal": "2nd Hampden and Hampshire",
+		"district_county": "Hampden and Hampshire",
+		"district_number": 2,
+		"first": "Donald",
+		"last": "Humason, Jr.",
+		"party": "r",
+		"first_term": 2013,
+		"screen_name": "SenDonHumason"
+	},
+	{
+		"district_formal": "Hampshire and Franklin and Worcester",
+		"district_county": "Hampshire and Franklin and Worcester",
+		"district_number": null,
+		"first": "Jo",
+		"last": "Comerford",
+		"party": "d",
+		"first_term": 2019,
+		"screen_name": "Jo_Comerford"
+	},
+	{
+		"district_formal": "1st Middlesex",
+		"district_county": "Middlesex",
+		"district_number": 1,
+		"first": "Edward",
+		"last": "Kennedy",
+		"party": "d",
+		"first_term": 2019,
+		"screen_name": null
+	},
+	{
+		"district_formal": "2nd Middlesex",
+		"district_county": "Middlesex",
+		"district_number": 2,
+		"first": "Patricia",
+		"last": "Jehlen",
+		"party": "d",
+		"first_term": 2005,
+		"screen_name": [ "senjehlen", "patjehlen" ]
+	},
+	{
+		"district_formal": "3rd Middlesex",
+		"district_county": "Middlesex",
+		"district_number": 3,
+		"first": "Michael",
+		"last": "Barrett",
+		"party": "d",
+		"first_term": 2013,
+		"screen_name": "BarrettSenate"
+	},
+	{
+		"district_formal": "4th Middlesex",
+		"district_county": "Middlesex",
+		"district_number": 4,
+		"first": "Cindy",
+		"last": "Friedman",
+		"party": "d",
+		"first_term": 2017,
+		"screen_name": "CindyFriedmanMA"
+	},
+	{
+		"district_formal": "5th Middlesex",
+		"district_county": "Middlesex",
+		"district_number": null,
+		"first": "Jason",
+		"last": "Lewis",
+		"party": "d",
+		"first_term": 2014,
+		"screen_name": "SenJasonLewis"
+	},
+	{
+		"district_formal": "1st Middlesex and Norfolk",
+		"district_county": "Middlesex and Norfolk",
+		"district_number": 1,
+		"first": "Cynthia Stone",
+		"last": "Creem",
+		"party": "d",
+		"first_term": 1999,
+		"screen_name": "cindycreem"
+	},
+	{
+		"district_formal": "2nd Middlesex and Norfolk",
+		"district_county": "Middlesex and Norfolk",
+		"district_number": 2,
+		"first": "Karen",
+		"last": "Spilka",
+		"party": "d",
+		"first_term": 2005,
+		"screen_name": "KarenSpilka"
+	},
+	{
+		"district_formal": "Middlesex and Suffolk",
+		"district_county": "Middlesex and Suffolk",
+		"district_number": null,
+		"first": "Sal",
+		"last": "DiDomenico",
+		"party": "d",
+		"first_term": 2010,
+		"screen_name": "SalDiDomenico"
+	},
+	{
+		"district_formal": "Middlesex and Worcester",
+		"district_county": "Middlesex and Worcester",
+		"district_number": null,
+		"first": "James",
+		"last": "Eldridge",
+		"party": "d",
+		"first_term": 2009,
+		"screen_name": [ "JamieEldridgeMA", "TeamEldridgeMA" ]
+	},
+	{
+		"district_formal": "Norfolk, Bristol and Middlesex",
+		"district_county": "Norfolk, Bristol and Middlesex",
+		"district_number": null,
+		"first": "Becca",
+		"last": "Rausch",
+		"party": "d",
+		"first_term": 2019,
+		"screen_name": "Becca4MASenate"
+	},
+	{
+		"district_formal": "Norfolk, Bristol and Plymouth",
+		"district_county": "Norfolk, Bristol and Plymouth",
+		"district_number": null,
+		"first": "Walter",
+		"last": "Timilty",
+		"party": "d",
+		"first_term": 2017,
+		"screen_name": [ "WalterFTimilty", "Timilty4Senate" ]
+	},
+	{
+		"district_formal": "Norfolk and Plymouth",
+		"district_county": "Norfolk and Plymouth",
+		"district_number": null,
+		"first": "John",
+		"last": "Keenan",
+		"party": "d",
+		"first_term": 2011,
+		"screen_name": "SenJohnFKeenan"
+	},
+	{
+		"district_formal": "Norfolk and Suffolk",
+		"district_county": "Norfolk and Suffolk",
+		"district_number": null,
+		"first": "Michael",
+		"last": "Rush",
+		"party": "d",
+		"first_term": 2011,
+		"screen_name": "SenatorMikeRush"
+	},
+	{
+		"district_formal": "Plymouth and Barnstable",
+		"district_county": "Plymouth and Barnstable",
+		"district_number": null,
+		"first": "Vinny",
+		"last": "deMacedo",
+		"party": "r",
+		"first_term": 2015,
+		"screen_name": "VinnydeMacedo"
+	},
+	{
+		"district_formal": "1st Plymouth and Bristol",
+		"district_county": "Plymouth and Bristol",
+		"district_number": 1,
+		"first": "Marc",
+		"last": "Pacheco",
+		"party": "d",
+		"first_term": 1993,
+		"screen_name": "MarcRPacheco"
+	},
+	{
+		"district_formal": "2nd Plymouth and Bristol",
+		"district_county": "Plymouth and Bristol",
+		"district_number": 2,
+		"first": "Michael",
+		"last": "Brady",
+		"party": "d",
+		"first_term": 2015,
+		"screen_name": "Brady_Works"
+	},
+	{
+		"district_formal": "Plymouth and Norfolk",
+		"district_county": "Plymouth and Norfolk",
+		"district_number": null,
+		"first": "Patrick",
+		"last": "O'Connor",
+		"party": "r",
+		"first_term": 2016,
+		"screen_name": "PatrickMOConnor"
+	},
+	{
+		"district_formal": "1st Suffolk",
+		"district_county": "Suffolk",
+		"district_number": 1,
+		"first": "Nick",
+		"last": "Collins",
+		"party": "d",
+		"first_term": 2018,
+		"screen_name": "nickcollinsma"
+	},
+	{
+		"district_formal": "2nd Suffolk",
+		"district_county": "Suffolk",
+		"district_number": 2,
+		"first": "Sonia",
+		"last": "Chang-Diaz",
+		"party": "d",
+		"first_term": 2009,
+		"screen_name": "SoniaChangDiaz"
+	},
+	{
+		"district_formal": "1st Suffolk and Middlesex",
+		"district_county": "Suffolk and Middlesex",
+		"district_number": 1,
+		"first": "Joseph",
+		"last": "Boncore",
+		"party": "d",
+		"first_term": 2016,
+		"screen_name": "joeboncore"
+	},
+	{
+		"district_formal": "2nd Suffolk and Middlesex",
+		"district_county": "Suffolk and Middlesex",
+		"district_number": 2,
+		"first": "Will",
+		"last": "Brownsberger",
+		"party": "d",
+		"first_term": 2012,
+		"screen_name": "WBrownsberger"
+	},
+	{
+		"district_formal": "1st Worcester",
+		"district_county": "Worcester",
+		"district_number": 1,
+		"first": "Harriette",
+		"last": "Chandler",
+		"party": "d",
+		"first_term": 2001,
+		"screen_name": [ "Sen_Chandler", "VoteSenChandler" ]
+	},
+	{
+		"district_formal": "2nd Worcester",
+		"district_county": "Worcester",
+		"district_number": 2,
+		"first": "Michael",
+		"last": "Moore",
+		"party": "d",
+		"first_term": 2009,
+		"screen_name": "SenMikeMoore"
+	},
+	{
+		"district_formal": "Worcester, Hampden, Hampshire and Middlesex",
+		"district_county": "Worcester, Hampden, Hampshire and Middlesex",
+		"district_number": null,
+		"first": "Anne",
+		"last": "Gobi",
+		"party": "d",
+		"first_term": 2015,
+		"screen_name": "AnneGobi"
+	},
+	{
+		"district_formal": "Worcester and Middlesex",
+		"district_county": "Worcester and Middlesex",
+		"district_number": null,
+		"first": "Dean",
+		"last": "Tran",
+		"party": "r",
+		"first_term": 2017,
+		"screen_name": "SenatorDeanTran"
+	},
+	{
+		"district_formal": "Worcester and Norfolk",
+		"district_county": "Worcester and Norfolk",
+		"district_number": null,
+		"first": "Ryan",
+		"last": "Fattman",
+		"party": "r",
+		"first_term": 2015,
+		"screen_name": "RyanFattman"
+	}
+]

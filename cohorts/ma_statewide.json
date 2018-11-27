@@ -1,0 +1,138 @@
+[
+  {
+    "office": "Governor",
+    "first": "Charlie",
+    "last": "Baker",
+    "party": "r",
+    "first_term": null,
+    "screen_name": [ "CharlieBakerMA", "MassGovernor" ]
+  },
+  {
+    "office": "Lt. Governor",
+    "first": "Karyn",
+    "last": "Polito",
+    "party": "r",
+    "first_term": null,
+    "screen_name": [ "MassLtGov", "KarynPolito" ]
+  },
+  {
+    "office": "Attorney General",
+    "first": "Maura",
+    "last": "Healey",
+    "party": "d",
+    "first_term": null,
+    "screen_name": [ "MassAGO", "maura_healey" ]
+  },
+  {
+    "office": "Secretary",
+    "first": "William",
+    "last": "Galvin",
+    "party": "d",
+    "first_term": null,
+    "screen_name": [ "SecretaryOfMass", "BillGalvin4MA" ]
+  },
+  {
+    "office": "Auditor",
+    "first": "Suzanne",
+    "last": "Bump",
+    "party": "d",
+    "first_term": null,
+    "screen_name": [ "MassAuditor", "SuzanneBump" ]
+  },
+  {
+    "office": "Treasurer",
+    "first": "Deb",
+    "last": "Goldberg",
+    "party": "d",
+    "first_term": null,
+    "screen_name": [ "MassTreasury", "DebGoldbergMA" ]
+  },
+  {
+    "office": "US Senate",
+    "first": "Elizabeth",
+    "last": "Warren",
+    "party": "d",
+    "first_term": null,
+    "screen_name": [ "elizabethforma", "SenWarren" ]
+  },
+  {
+    "office": "US Senate",
+    "first": "Ed",
+    "last": "Markey",
+    "party": "d",
+    "first_term": null,
+    "screen_name": [ "EdMarkey", "senmarkey" ]
+  },
+  {
+    "office": "US Congress (1st)",
+    "first": "Richard",
+    "last": "Neal",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "RepRichardNeal"
+  },
+  {
+    "office": "US Congress (2nd)",
+    "first": "Jim",
+    "last": "McGovern",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["RepMcGovern","McGovernMA"]
+  },
+  {
+    "office": "US Congress (3rd)",
+    "first": "Lori",
+    "last": "Trahan",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["LoriUSCongress","latrahan"]
+  },
+  {
+    "office": "US Congress (4th)",
+    "first": "Joseph",
+    "last": "Kennedy",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["RepJoeKennedy","joekennedy"]
+  },
+  {
+    "office": "US Congress (5th)",
+    "first": "Katherine",
+    "last": "Clark",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["RepKClark","KatherineClark"]
+  },
+  {
+    "office": "US Congress (6th)",
+    "first": "Seth",
+    "last": "Moulton",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["sethmoulton","teammoulton"]
+  },
+  {
+    "office": "US Congress (7th)",
+    "first": "Ayanna",
+    "last": "Pressley",
+    "party": "d",
+    "first_term": null,
+    "screen_name": "AyannaPressley"
+  },
+  {
+    "office": "US Congress (8th)",
+    "first": "Stephen",
+    "last": "Lynch",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["RepStephenLynch","RepLynch"]
+  },
+  {
+    "office": "US Congress (9th)",
+    "first": "Bill",
+    "last": "Keating",
+    "party": "d",
+    "first_term": null,
+    "screen_name": ["USRepKeating","WilliamKeating"]
+  }
+]

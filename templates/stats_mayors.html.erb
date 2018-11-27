@@ -1,0 +1,118 @@
+* [All members](#all-members)
+* [Most responsive](#most-responsive)
+* [Most talkative](#most-talkative)
+* [Missing in action](#missing-in-action)
+
+## All members
+
+_Click any column heading to re-sort with that column's data. Anyone listed without a link to his or her Twitter feed doesn't have an account (or I just can't find it)._
+
+<table id="rankings">
+  <thead>
+    <tr>
+      <th>City / Town</th>
+      <th>Name</th>
+      <th>Population</th>
+      <th>Tweets, Last 90 Days</th>
+      <th>Tweets /day</th>
+      <th>Replies, Last 90 Days</th>
+      <th data-sort-default>Replies /day</th>
+    </tr>
+  </thead>
+  <tbody>
+  <% @officials.each do |official| %>
+    <tr>
+      <td><%= official['city'] %></td>
+      <td>
+        <strong><%= official['last'] %>, <%= official['first'] %></strong>
+        <% unless official['screen_name'].nil? %>
+          <div>
+            <% official['screen_name'].each do |screen_name| %>
+              <a href="https://twitter.com/<%= screen_name %>"><%= screen_name %></a>
+            <% end %>
+          </div>
+        <% end %>
+      </td>
+      <td><%= official['population'] %></td>
+      <td><%= official['tweets_total'] %></td>
+      <td><%= "%.2f" % official['tweets_daily'] %></td>
+      <td><%= official['replies_total'] %></td>
+      <td><%= "%.2f" % official['replies_daily'] %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+
+<script>
+  new Tablesort(document.getElementById('rankings'), {
+    descending: true
+  });
+</script>
+
+## Most responsive
+
+<table class="ranking-top">
+  <tbody>
+    <% @most_responsive.each_with_index do |official, index| %>
+    <tr>
+      <th><%= index + 1 %></th>
+      <th>
+        <img src="<%= official['photo_url'] %>" />
+      </th>
+      <th>
+        <%= official['first'] %> <%= official['last'] %><br />
+        <%= official['city'] %>
+      </th>
+      <td>
+        <%= official['replies_total'] %> replies<br />
+        <%= "%.2f" % official['replies_daily'] %>/day
+      </td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+## Most talkative
+
+<table class="ranking-top">
+  <tbody>
+    <% @most_talkative.each_with_index do |official, index| %>
+    <tr>
+      <th><%= index + 1 %></th>
+      <th>
+        <img src="<%= official['photo_url'] %>" />
+      </th>
+      <th>
+        <%= official['first'] %> <%= official['last'] %><br />
+        <%= official['city'] %>
+      </th>
+      <td>
+        <%= official['tweets_total'] %> replies<br />
+        <%= "%.2f" % official['tweets_daily'] %>/day
+      </td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+## Missing in action
+
+<table>
+  <tbody>
+  <% @missing.each do |official| %>
+    <tr>
+      <td>
+        <%= official['last'] %>, <%= official['first'] %><br />
+        <%= official['city'] %>
+      </td>
+      <td>
+        <% if official['screen_name'].nil? %>
+          <em>No account</em>
+        <% else %>
+          <em>No tweets in 90-day window</em>
+        <% end %>
+      </td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
